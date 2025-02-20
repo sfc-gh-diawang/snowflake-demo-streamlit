@@ -6,7 +6,7 @@ This is the keymetrics for CloudWiFiControllers which is an app for a company wi
 
 ## App layout
 
-Bellow we can see four different charts which can be filtered by date, customer type or cloud type.
+Below we can see four different charts which can be filtered by date, customer type or cloud type.
 ![WiFiForSale](./assets/app.png)
 
 ## App data
